@@ -1,0 +1,1 @@
+addField(':mute: Total de canais:', `**:bread: Total: **` + `${message.guild.channels.size}** |** **:pencil: Texto: **` + `${message.guild.channels.filter(channel => channel.type == 'text').size}` + '** |** **:speaking_head: Voz: **' + `${message.guild.channels.filter(channel => channel.type == 'voice').size}`, true)
