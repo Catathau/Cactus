@@ -46,4 +46,4 @@ client.on('ready', () => {
   console.log('1..');
   console.log(`Funcionando!! Logado como ${client.user.tag}!`);
 });
-client.login(config.token)
+client.login(process.env.BOT_TOKEN)
