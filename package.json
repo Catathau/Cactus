@@ -1,0 +1,26 @@
+{
+  "name": "sphyle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "animals": "0.0.3",
+    "cleverbot.io": "^1.0.4",
+    "google": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "lol-js": "^2.0.2",
+    "moment": "^2.18.1",
+    "paladins-api": "^1.5.1",
+    "random-cat": "^1.0.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.82.0",
+    "superheroes": "^1.0.0",
+    "ytdl-core": "^0.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "CatathauBR",
+  "description": "",
+  "license": "ISC"
+}
